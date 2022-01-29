@@ -17,3 +17,5 @@ You can find the plot for each patient in the "latest simulations" folder with a
 To add more patient data, all you need is to add new arrays in the file called
 input_arrays.text. The array must be a python array, ideally, we specify the patient number
 to make the analysis easier
+
+Please feel free to simply download the following file https://drive.google.com/file/d/1rpIcplVb7Im-ygppfSckMCeuSnM3ywH6/view?usp=sharing
